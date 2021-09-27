@@ -11,7 +11,7 @@ public class Main {
         // Create 2 monitors
         Monitor monitor1 = new Monitor();
         Monitor monitor2 = new Monitor();
-
+:
         // Update first monitor properties
         monitor1.model = "LG 27GL650F-B";
         monitor1.color = "black";
