@@ -1,10 +1,13 @@
-<center><img src="header-logo.png" alt="drawing" width="400"/></center>
+<p align="center">
+  <a>
+    <img src="header-logo.png" alt="Logo" width="330">
+  </a>
 
 </br>
-<center> 
+<div align=center> 
     <div style="font-size:18px"> Cristian Ionel </div>
     <b>Academic group</b> : FAF-202
-</center>
+</div>
 </br>
 
 ***
