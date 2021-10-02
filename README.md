@@ -1,8 +1,3 @@
-<p align="center">
-  <a>
-    <img src="header-logo.png" alt="Logo" width="250">
-  </a>
-
 </br>
 <div align=center> 
     <div style="font-size:18px"> Cristian Ionel </div>
@@ -36,9 +31,7 @@ OOP-LABS⠄⠄⠄⠄⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 
 ***
 
-<div align=center> 
-    <div style="font-size:25px; font-weight:bold"> Progress </div>
-</div>
+## 🚧 **Progress**
 
 + ~~Lab 1~~ __DONE__ 
 + Lab 2
@@ -47,3 +40,9 @@ OOP-LABS⠄⠄⠄⠄⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 + Lab 5
 
 ...
+***
+
+## 🛠️ **Tools used**
+
+![](https://img.shields.io/badge/IDE-Intellij_IDEA-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
+
