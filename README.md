@@ -1,7 +1,3 @@
-<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/hack-font@3/build/web/hack.css">
-
-<style>* { font-family: Hack, monospace; }</style>
-
 <p align="center">
   <a>
     <img src="header-logo.png" alt="Logo" width="330">
