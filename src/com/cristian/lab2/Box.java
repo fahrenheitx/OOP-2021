@@ -36,7 +36,7 @@ public class Box {
     }
 }
 
-class testBox {
+class TestBox {
     public static void main(String[] args) {
         Box firstBox = new Box(5, 6, 7);
         System.out.println("Box volume = " + firstBox.volume());

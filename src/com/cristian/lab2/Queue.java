@@ -76,7 +76,7 @@ public class Queue {
     }
 }
 
-class testQueue {
+class TestQueue {
     public static void main(String[] args) {
         Queue q = new Queue();
         q.push(25);
