@@ -44,5 +44,5 @@ OOP-LABS⠄⠄⠄⠄⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 
 ## 🛠️ **Tools used**
 
-![](https://img.shields.io/badge/IDE-Intellij_IDEA-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
+![https://intellij-support.jetbrains.com/hc/en-us](https://img.shields.io/badge/IDE-Intellij_IDEA-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
 
