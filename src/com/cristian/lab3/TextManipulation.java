@@ -1,5 +1,7 @@
 package com.cristian.lab3;
 
+import java.util.*;
+
 public class TextManipulation {
     public String text;
 
@@ -47,7 +49,7 @@ public class TextManipulation {
     }
 
     public String getLongestWord() {
-        String[] words = this.text.split("[ .?!&]");
+        String[] words = this.text.split("[\s.,;?!]+"); // splitting string in array of substrings (words)
         int maxLength = -1;
         String longestWord = "";
         for (String a : words) {

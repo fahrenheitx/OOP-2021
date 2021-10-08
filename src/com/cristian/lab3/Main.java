@@ -1,9 +1,11 @@
 package com.cristian.lab3;
 
+import java.util.Arrays;
+
 public class Main {
     public static void main(String[] args) {
         TextManipulation someString = new TextManipulation();
-        someString.text = "Some text. Testing test test. Hey? Texttwe erer ereresdsas!";
+        someString.text = "test test. test??? yes no yes test no, of course, noo no test.";
         System.out.println("Number of words : " + someString.getWords());
         System.out.println("Number of sentences : " + someString.getSentences());
         System.out.println("Number of letters : " + someString.getLetters());
