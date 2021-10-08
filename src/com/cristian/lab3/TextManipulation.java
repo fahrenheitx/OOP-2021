@@ -45,4 +45,17 @@ public class TextManipulation {
     public int getConsonants() {
         return this.getLetters() - this.getVowels();
     }
+
+    public String getLongestWord() {
+        String[] words = this.text.split("[ .?!&]");
+        int maxLength = -1;
+        String longestWord = "";
+        for (String a : words) {
+            if (a.length() >= maxLength) {
+                maxLength = a.length();
+                longestWord = a;
+            }
+        }
+        return longestWord;
+    }
 }
