@@ -35,7 +35,7 @@ OOP-LABS⠄⠄⠄⠄⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 
 + ~~Lab 1~~ __DONE__ 
 + ~~Lab 2~~ __DONE__
-+ Lab 3 *DOING*
++ ~~Lab 3~~ __DONE__
 + Lab 4
 + Lab 5
 
