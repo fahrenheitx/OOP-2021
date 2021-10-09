@@ -69,7 +69,6 @@ public class TextManipulation {
 
     public List<String> topWords() {
         String[] words = this.text.split("[\s.,;?!]+");
-        Map<String, Integer> freqMap = new HashMap<>();
         for (int i = 0; i < words.length; i++) {
             words[i] = words[i].toLowerCase();
         }
